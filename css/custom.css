@@ -1,0 +1,31 @@
+header.masthead {
+    padding-top: 0rem;
+    padding-bottom: 10rem;
+    text-align: center;
+    color: #fff;
+    background-image: url("../images/waves.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    background-size: cover;
+}
+
+header.masthead .masthead-heading {
+    padding-top: 10rem;
+    font-size: 3.25rem;
+    font-weight: 700;
+    line-height: 3.25rem;
+    margin-bottom: 2rem;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #0026ff;
+    border-color: #0026ff;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #d1d1d1;
+    border-color: #d1d1d1;
+}
